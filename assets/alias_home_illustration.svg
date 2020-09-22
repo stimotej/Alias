@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="374.5" height="352.242" viewBox="0 0 374.5 352.242">
+  <defs>
+    <filter id="Container" x="96.067" y="4.329" width="111.274" height="81.063" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_" x="235.513" y="21" width="35.885" height="51.702" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_2" x="252.388" y="0" width="35.835" height="66.289" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_3" x="269.028" y="22.093" width="33.187" height="45.511" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Ilustration" transform="translate(19.345 -213.034)">
+    <path id="Random_bg" data-name="Random bg" d="M119.943,35.677c51.887,10.612,48.586,31.11,94.516,45.283,61.4,20.617,98.133,38.416,127.234,92.2,12.532,28.758,21.81,55.677,20.3,81.468-1.192,20.368-9.38,40.081-28.475,59.176-42.815,42.815-88.672,23.908-133.883,23.908-51.169,0-173.337,48.431-204.81,12.751C-31.708,320.38,23.94,238.039,23.94,194.625c0-41.711-30.057-107.645-5.206-137.431C50.08,19.621,72.251,26.592,119.943,35.677Z" transform="translate(-7 201.7)" fill="#2962ff" opacity="0.08"/>
+    <g id="Ona" transform="translate(12.254 295.192)">
+      <ellipse id="Sjena" cx="65" cy="13.5" rx="65" ry="13.5" transform="translate(-0.099 200.234)" opacity="0.08"/>
+      <g id="Noge" transform="translate(12.766 111.498)">
+        <g id="Noge-2" data-name="Noge" transform="translate(2.609)">
+          <path id="Desna_noga" data-name="Desna noga" d="M1438.489,458.446s-3.179-14.65-9.009-38.564-14.313-57.089-14.313-57.089h-30s18.212,33.105,30,57.089,17.142,38.844,17.142,38.844Z" transform="translate(-1363.045 -362.781)" fill="#1976d2"/>
+          <path id="Sjena-2" data-name="Sjena" d="M41.986,37.41l.786,1.145,9.612-37.1-2.025-.392Z" opacity="0.3"/>
+          <path id="Lijeva_noga" data-name="Lijeva noga" d="M1405.777,362.792l-29.963-.017s1.254,8.466,2.568,18.459c1.574,11.967,3.58,24.55,2.557,28.551-1.206,4.258-27.256,49.181-27.256,49.181h7.444s27.518-34.477,30.465-41.331S1405.777,362.792,1405.777,362.792Z" transform="translate(-1353.683 -362.775)" fill="#2962ff"/>
+        </g>
+        <g id="Desna_tenisica" data-name="Desna tenisica" transform="translate(0 92.176)">
+          <path id="Sjena-3" data-name="Sjena" d="M3.592,2.288l.754-1.246s-.07.639,1.574,1.115a19.746,19.746,0,0,0,2.9.869,5.914,5.914,0,0,0,2.1-.082L9.673,4.452Z" opacity="0.3"/>
+          <path id="Tenisica" d="M.554,1.016c1.248-2.3,1.548.036,2.842,0a20.222,20.222,0,0,0,3.371.134A9.831,9.831,0,0,0,9.224.44l4.454,3.238s4.979.531,6.067,1.555-.067,2.757-.067,2.757H.554S-.693,3.319.554,1.016Z" transform="translate(2.202 0.524) rotate(16)" fill="#bdbdbd"/>
+        </g>
+        <g id="Lijeva_tenisica" data-name="Lijeva tenisica" transform="translate(66.716 94.246) rotate(-17)">
+          <path id="Sjena-4" data-name="Sjena" d="M3.765,2.362,3.753.408s.088.627,1.924,1.426a10.66,10.66,0,0,0,2.849.879c1.105.169,1.314.031,1.314.031L9.655,4.319Z" transform="translate(0.539 0.91) rotate(-4)" opacity="0.3"/>
+          <path id="Tenisica-2" data-name="Tenisica" d="M.554,1.016c1.248-2.3,1.548.036,2.842,0a20.222,20.222,0,0,0,3.371.134A9.831,9.831,0,0,0,9.224.44l4.454,3.238s4.979.531,6.067,1.555-.067,2.757-.067,2.757H.554S-.693,3.319.554,1.016Z" transform="translate(2.202 0.524) rotate(16)" fill="#9e9e9e"/>
+        </g>
+      </g>
+      <g id="Lijeva_ruka" data-name="Lijeva ruka" transform="matrix(0.999, 0.035, -0.035, 0.999, 63.95, 19.728)">
+        <path id="Nadlaktica" d="M0,0S2.118,6.066,10,10.823c1.285.775,17.51,12.164,21.432,10.463,10.143-4.4,12.188,4.311,2.518,8.193S-.039,19.413-.039,19.413Z" transform="translate(0 18.396)" fill="#f57c00"/>
+        <path id="Dlan" d="M7.872,14.815s2.633-5.453.806-10.361-3.62-.906-3.3,1.28S4.887,11.078,3.988,10.6,2.173,7.74,1.258,8.053.5,9.416,1.35,10.692A11.383,11.383,0,0,1,2.538,12.72a2.011,2.011,0,0,1,0,2.1Z" transform="translate(36.352 7.17)" fill="#a1887f"/>
+        <path id="Podlaktica" d="M7.051,1.8c3.157,1.448,6.958,4.1,12.692,5.476a53.311,53.311,0,0,0,5.244,1.2l-.616,5.609s-1.763-.171-7.46-1.021A62.175,62.175,0,0,1,4.973,10.423C-2.7,8.572-2.447-2.4,7.051,1.8Z" transform="matrix(0.017, -1, 1, 0.017, 30.099, 45.739)" fill="#f57c00"/>
+      </g>
+      <g id="Tijelo" transform="translate(36.893 9.257)">
+        <path id="Faca" d="M1420.849,245.111a11.311,11.311,0,0,1-1.143-3.717,6.634,6.634,0,0,1,.69-3.22s2.08,1.939,6.288,1.128,3.6-10.449,2.765-17.152-14.118-4.843-17.8-.808,1.743,10.936,2.324,16.693-4.127,6.361-4.127,6.361Z" transform="translate(-1393.838 -217.71)" fill="#a1887f"/>
+        <path id="Sjena_na_ruku" data-name="Sjena na ruku" d="M85.932,362.157l-1.063-.64.19-15.565,1.074.958a11.114,11.114,0,0,1,.71,1.233A18.279,18.279,0,0,1,87.8,355.3,14.114,14.114,0,0,1,85.932,362.157Z" transform="matrix(0.985, -0.174, 0.174, 0.985, -109.261, -286.832)" opacity="0.3"/>
+        <path id="Sjena_na_noge" data-name="Sjena na noge" d="M.605,102.4l.222,1.479s7.625-.194,15.2,0,15.233,1,15.233,1l-.481-1.812Z" opacity="0.3"/>
+        <path id="Tijelo-2" data-name="Tijelo" d="M1383.9,329.64s9.2-.314,17.42,0,15.867,1.254,15.867,1.254-6.315-18.6,0-35.628,6.447-16.681,4.889-24.116c-.6-2.885-2.178-4.239-5.479-9.771s-4.427-8.914-5.075-9.36a7.286,7.286,0,0,0-4.07-.755,41.057,41.057,0,0,1-5.007-.319,18.1,18.1,0,0,0-4.486,2.521c-10.009,9.4-6.976,16.343-6.976,26.265C1394.941,298.868,1383.9,329.64,1383.9,329.64Z" transform="translate(-1384.298 -226.546)" fill="#ff6d00"/>
+      </g>
+      <g id="Desna_ruka" data-name="Desna ruka" transform="translate(38.975 35.571)">
+        <path id="Dlan-2" data-name="Dlan" d="M4.564,15.177S7.8,7.274,6.029,2.171,3.115,2.28,3.659,4.4a6.014,6.014,0,0,1-1.1,5.221c-.936,1.135-1-3.235-1.893-2.909s-.783,3.381-.32,4.9a6.939,6.939,0,0,1,.017,3.259Z" transform="matrix(0.07, 0.998, -0.998, 0.07, 58.648, 48.413)" fill="#a1887f"/>
+        <path id="Sjena-dlan" d="M109.8,37.943l.2-.95,4.371.382-.324.993Z" transform="matrix(0.087, 0.996, -0.996, 0.087, 72.132, -62.896)" opacity="0.3"/>
+        <path id="Sjena-5" data-name="Sjena" d="M1379.661,374.181l.422-2.445-23.565-14.291v1.939a48.826,48.826,0,0,0,9.148,7.419A130.094,130.094,0,0,0,1379.661,374.181Z" transform="translate(-1351.073 -323.336)" opacity="0.3"/>
+        <path id="Ruka" d="M1392.082,250.763c.544,3.033,5.763,11.525,5.763,11.525s-7.451,9.673-3.882,13.779c11.857,13.64,29.91,23.88,29.91,23.88v6.084s-27.924-6.231-40.587-21.6S1392.082,250.763,1392.082,250.763Z" transform="translate(-1379.288 -250.763)" fill="#ff6d00"/>
+        <path id="Sjena-6" data-name="Sjena" d="M15.179,51.37a6.249,6.249,0,0,0,1.143-.316,11.451,11.451,0,0,0,1.283-.615A26.877,26.877,0,0,0,14.7,56.022a8.813,8.813,0,0,0-.679,4.877,4.944,4.944,0,0,1-.826-3.991A24.816,24.816,0,0,1,15.179,51.37Z" transform="translate(0.634 -35.571)" opacity="0.3"/>
+      </g>
+      <g id="Glava" transform="translate(39.609 0)">
+        <path id="Sjena-7" data-name="Sjena" d="M20.594,33.969h1.038a27.523,27.523,0,0,1-.028,8.655c-.726,5.465-2.5,6.507-2.5,6.507Z" transform="translate(0)" opacity="0.3"/>
+        <path id="Kosa" d="M134.072,222.293C136,219.4,135.542,221.15,146.9,216a7.252,7.252,0,0,0-.466-6.616c-2.013-3.764-7.475-6.338-16.5-4.493s-10.932,5.954-13.537,11.8-2.68,26.5,0,32.126c2.374,4.988,11.093,8.78,16.735,4.295,1.9-1.507,3.949-12.818,1.871-18.428S132.146,225.188,134.072,222.293Z" transform="translate(-114.412 -203.443)" fill="#ffd180"/>
+      </g>
+    </g>
+    <g id="Oblak" transform="translate(85.722 223.363)">
+      <g transform="matrix(1, 0, 0, 1, -105.07, -10.33)" filter="url(#Container)">
+        <path id="Container-2" data-name="Container" d="M0,30.578H0c0-.053,0-.107,0-.16V20A20,20,0,0,1,20,0H73.274a20,20,0,0,1,20,20V30.418a20,20,0,0,1-20,20H20a20.137,20.137,0,0,1-3.431-.293,45.2,45.2,0,0,1-2.754,3.832C7.229,62.078,0,63.063,0,63.063Z" transform="translate(105.07 10.33)" fill="#fff"/>
+      </g>
+      <g id="Tekst_placeholder" data-name="Tekst placeholder" transform="translate(11.524 15.616)">
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="62" height="6" rx="3" transform="translate(-0.091 0.448)" fill="#e0e0e0" opacity="0.7"/>
+        <rect id="Rectangle_11" data-name="Rectangle 11" width="69" height="6" rx="3" transform="translate(-0.091 7.448)" fill="#e0e0e0" opacity="0.7"/>
+        <rect id="Rectangle_12" data-name="Rectangle 12" width="54" height="6" rx="3" transform="translate(-0.091 15.448)" fill="#e0e0e0" opacity="0.7"/>
+      </g>
+    </g>
+    <g id="On" transform="matrix(0.999, 0.052, -0.052, 0.999, 194.697, 272.465)">
+      <ellipse id="Sjena-8" data-name="Sjena" cx="65.5" cy="13.5" rx="65.5" ry="13.5" transform="translate(1.142 223.208) rotate(-3)" opacity="0.08"/>
+      <g id="Noge-3" data-name="Noge" transform="translate(34.866 114.936)">
+        <path id="Desna_noga-2" data-name="Desna noga" d="M3.363,102.38S.122,86.528.675,60.845,0,0,0,0H33.345S22.231,30.081,16.978,56.323a362.167,362.167,0,0,0-6.352,45.285Z" transform="translate(16.62 4.559)" fill="#212121"/>
+        <path id="Lijeva_noga-2" data-name="Lijeva noga" d="M0,4.209,32.866,0a289.04,289.04,0,0,0,4.021,52.188c4.755,26.6,14.656,55.427,14.656,55.427l-7.286,3.045s-9.389-21.269-20.78-48.52S0,4.209,0,4.209Z" transform="translate(17.311 0) rotate(9)" fill="#424242"/>
+        <g id="Lijeva_tenisica-2" data-name="Lijeva tenisica" transform="matrix(0.966, 0.259, -0.259, 0.966, 31.782, 106.266)">
+          <path id="Sjena-9" data-name="Sjena" d="M2.737,2.244l.428-2.42A7.477,7.477,0,0,0,5.756,1.513,11.054,11.054,0,0,0,8.811,2.3a5.357,5.357,0,0,0,2.3-.273l-.955,2.488Z" transform="matrix(0.777, -0.629, 0.629, 0.777, 10.175, 5.944)" opacity="0.3"/>
+          <path id="Tenisica-3" data-name="Tenisica" d="M.667,8.394c1.5,2.772,1.863-.043,3.42,0a24.34,24.34,0,0,1,4.057-.161,11.833,11.833,0,0,1,2.957.854l5.361-3.9s5.993-.639,7.3-1.872S23.684,0,23.684,0H.667S-.834,5.622.667,8.394Z" transform="translate(26.158 8.916) rotate(158)" fill="#9e9e9e"/>
+        </g>
+        <g id="Desna_tenisica-2" data-name="Desna tenisica" transform="matrix(-0.966, -0.259, 0.259, -0.966, 28.259, 119.37)">
+          <path id="Sjena-10" data-name="Sjena" d="M2.661,2,3.167-.12a5.5,5.5,0,0,0,2.51,1.954A9.613,9.613,0,0,0,8.6,2.506a6.367,6.367,0,0,0,2.3-.159L9.851,4.375Z" transform="matrix(-0.777, 0.629, -0.629, -0.777, 15.087, 10.979)" opacity="0.3"/>
+          <path id="Tenisica-4" data-name="Tenisica" d="M.616,7.753c1.387,2.561,1.721-.04,3.159,0A22.48,22.48,0,0,1,7.523,7.6a10.928,10.928,0,0,1,2.731.789l4.952-3.6s5.535-.591,6.744-1.729S21.875,0,21.875,0H.616S-.77,5.192.616,7.753Z" transform="translate(0 7.685) rotate(-20)" fill="#757575"/>
+        </g>
+      </g>
+      <g id="Desna_ruka-2" data-name="Desna ruka" transform="translate(0 30.403) rotate(-9)">
+        <path id="Nadlaktica-2" data-name="Nadlaktica" d="M50.525,0S48.851,8.329,37.216,11.071a31.481,31.481,0,0,0-7.185,3.4c-7.575,5.079-9.912,7.349-15.451,7.406C1.8,16.8-.594,28.786,11.591,33.263S50.525,23.22,50.525,23.22Z" transform="translate(11.517 1.837) rotate(17)" fill="#1976d2"/>
+        <path id="Dlan-3" data-name="Dlan" d="M1.43,13.11S-1.092,6.159.563,1.714s5.405,1.069,5.1,1.88-.951,2.933.007,4.1S6.266,4.665,7.1,4.949s1.057,1.375.625,2.695a23.3,23.3,0,0,1-1.46,3.569,1.822,1.822,0,0,0,0,1.9Z" transform="matrix(0.259, 0.966, -0.966, 0.259, 52.576, -1.885)" fill="#a1887f"/>
+        <path id="Sjena-11" data-name="Sjena" d="M20.732,27.631l-2.4.079-2.7,3.571s1.1.095,2.787-1.374A19.354,19.354,0,0,0,20.732,27.631Z" transform="translate(3.978 -0.05)" opacity="0.3"/>
+        <path id="Podlaktica-2" data-name="Podlaktica" d="M10.307,15.909c5.933-2.391,7.716-4.1,15.364-6.8a78.991,78.991,0,0,1,16.3-3.525l.7-5.516A106.359,106.359,0,0,0,27.68.614,214.327,214.327,0,0,0,5.965,3.637C-3.287,5.589-1.728,20.758,10.307,15.909Z" transform="matrix(0.883, -0.469, 0.469, 0.883, 3.226, 22.086)" fill="#1976d2"/>
+      </g>
+      <g id="Tijelo-3" data-name="Tijelo" transform="translate(43.43 5.825)">
+        <path id="Sjena_na_noge-2" data-name="Sjena na noge" d="M.605,102.039v1.837s8.405-.194,16.514,0,16.042.953,16.042.953l.626-1.847Z" transform="translate(2.219 12.796) rotate(-3)" opacity="0.4"/>
+        <path id="Faca-2" data-name="Faca" d="M10.229,30.46a17.14,17.14,0,0,0,.9-4.054,11.511,11.511,0,0,0-.4-3.657S8.421,24.9,3.744,24-.262,12.387.67,4.936s15.694-5.384,19.79-.9-2.306,12.345-1.707,18.837,3.712,6.792,3.712,6.792Z" transform="translate(1.82 0)" fill="#a1887f"/>
+        <path id="Tijelo-4" data-name="Tijelo" d="M42.076,88.016s-9.784-.349-18.924,0-18.631.976-18.631.976a70.83,70.83,0,0,0,.467-16.025c-.429-5.326-.945-11.364-1.5-17.292C2.641,46.525,1.731,38.061,1.109,35.2a39.006,39.006,0,0,1-1.076-10.5,24.085,24.085,0,0,1,2.453-9.7C6.23,7.205,10.628,1.1,11.717.536s2.278.3,4.617.355S20.578-.053,21.9,0s3.452,1.892,4.989,3.336C38.013,13.79,40,13.577,36.8,34.753a106.409,106.409,0,0,0-.886,25.373A133.188,133.188,0,0,0,42.076,88.016Z" transform="translate(0 26.587)" fill="#2962ff"/>
+      </g>
+      <g id="Lijeva_ruka-2" data-name="Lijeva ruka" transform="translate(61.198 40.118)">
+        <path id="Sjena-12" data-name="Sjena" d="M20.214,57.9l.347,2.067S15.5,63.581,14.9,63.774s-1.039-.649-1.039-.649Z" transform="translate(-2.259 -6.433)" opacity="0.4"/>
+        <path id="Dlan-4" data-name="Dlan" d="M5.4,0S9.358,7.386,7.5,12.38s-5.458,2.568-6.94-.538S1.01.307,1.01.307Z" transform="translate(9.916 50.364) rotate(53)" fill="#a1887f"/>
+        <path id="Sjena-13" data-name="Sjena" d="M80.068,68.484l.3-2.307L66.055,55.983S66,57,67.413,58.067a110.049,110.049,0,0,0,10.671,8.589C80.343,68.226,80.068,68.484,80.068,68.484Z" transform="translate(-61.198 -40.118)" opacity="0.3"/>
+        <path id="Nadlaktica-3" data-name="Nadlaktica" d="M7.109,0C6.438,3.68,0,13.984,0,13.984s6.339,5.153,14.625,11.484c4.2,3.21,8.336,4.567,10.641,7.726,5.121,11.063,14.343,4.963,9.066-3.9-2.1-3.526-3.171-6.408-8.872-12.54A182.216,182.216,0,0,0,7.109,0Z" transform="translate(2.204 0)" fill="#2962ff"/>
+        <path id="Podlaktica-3" data-name="Podlaktica" d="M4.423,31.832-1.055,28.1S4.479,17.729,9.759,5.941,25.919.864,20.827,8.984,4.423,31.832,4.423,31.832Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 18.504, 25.495)" fill="#2962ff"/>
+      </g>
+      <g id="Glava-2" data-name="Glava" transform="translate(39.666 0)">
+        <path id="Kosa-2" data-name="Kosa" d="M20.965,16.49s1.655-.452,1.977-1.461a2.119,2.119,0,0,0-.771-2.568,2.29,2.29,0,0,0-2.479.386c-.73.691-.362,2.371-.362,2.371L6.708,9.5S-2.128,4.33.482,2.06,10.262-.1,17.155.1s9.11,1.3,12.583,5-1.647,15.055-3.827,17.847S20.965,16.49,20.965,16.49Z" transform="translate(0 0)" fill="#3e2723"/>
+      </g>
+    </g>
+    <g id="Upitnici" transform="translate(225.168 219.024)">
+      <g transform="matrix(1, 0, 0, 1, -244.51, -5.99)" filter="url(#_)">
+        <text id="_4" data-name="?" transform="translate(249.28 53.83) rotate(-11)" fill="#2962ff" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">?</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -244.51, -5.99)" filter="url(#_2)">
+        <text id="_5" data-name="?" transform="translate(262.05 44.29) rotate(-1)" fill="#2962ff" font-size="36" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">?</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -244.51, -5.99)" filter="url(#_3)">
+        <text id="_6" data-name="?" transform="matrix(0.98, 0.21, -0.21, 0.98, 279.07, 48.63)" fill="#2962ff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">?</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
