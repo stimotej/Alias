@@ -12,12 +12,12 @@ Tim koji prvi sakupi definirani broj bodova, pobjeđuje!
 
 ## Snimke zaslona
 
-![Home page](/screenshots/images/screenshot-home-page.png "Home page")
-![Game setup](/screenshots/images/screenshot-game-setup.png "Game setup")
-![Create teams](/screenshots/images/screenshot-create-teams.png "Create teams")
-![Game page](/screenshots/images/screenshot-game.png "Game page")
-![Game started](/screenshots/images/screenshot-game-started.png "Game started")
-![Game paused](/screenshots/images/screenshot-paused.png "Game paused")
-![Game finished](/screenshots/images/screenshot-finished.png "Game finished")
-![Next game](/screenshots/images/screenshot-next-game.png "Next game")
-![Winner team](/screenshots/images/screenshot-winner-team.png "Winner team")
+<img alt="Home page" src="/screenshots/screenshot-home-page.png" width="100px" height="auto"></img>
+<img alt="Game setup" src="/screenshots/screenshot-game-setup.png" width="100px" height="auto"></img>
+<img alt="Create teams" src="/screenshots/screenshot-create-teams.png" width="100px" height="auto"></img>
+<img alt="Game page" src="/screenshots/screenshot-game.png" width="100px" height="auto"></img>
+<img alt="Game started" src="/screenshots/screenshot-game-started.png" width="100px" height="auto"></img>
+<img alt="Game paused" src="/screenshots/screenshot-paused.png" width="100px" height="auto"></img>
+<img alt="Game finished" src="/screenshots/screenshot-finished.png" width="100px" height="auto"></img>
+<img alt="Next game" src="/screenshots/screenshot-next-game.png" width="100px" height="auto"></img>
+<img alt="Winner team" src="/screenshots/screenshot-winner-team.png" width="100px" height="auto"></img>
